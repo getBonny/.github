@@ -6,4 +6,4 @@ Join us in building a fair data economy where your data works for you, not just 
 
 
 ## Web3 Architecture
-![Architecture Diagram](https://raw.githubusercontent.com/getBonny/bonny-program-library/main/architecture.png)
+![Architecture Diagram](https://github.com/getBonny/bonny-program-library/blob/main/architecture.png)
